@@ -85,7 +85,7 @@ window.CONFIG = {
   team: [],
 
   map: { lat: 45.06569, lon: 39.005602, zoom: 16 },   // карта вместо фото в «Контактах»
-  bookingUrl: "https://n194141.yclients.com/",
+  bookingUrl: "https://n194141.yclients.com/company/195396/personal/select-master?o=",
   bookingName: "YClients",
   demoNote: "Макет: фото для примера (заменим на ваши). «Занятые» часы в форме показаны для примера, в рабочей версии они берутся из вашей записи.",
   footer: "Макет сайта · студия vuegen",
